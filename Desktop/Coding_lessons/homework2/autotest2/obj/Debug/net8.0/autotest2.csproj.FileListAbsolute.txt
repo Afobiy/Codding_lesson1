@@ -1,0 +1,15 @@
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\bin\Debug\net8.0\autotest2.exe
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\bin\Debug\net8.0\autotest2.deps.json
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\bin\Debug\net8.0\autotest2.runtimeconfig.json
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\bin\Debug\net8.0\autotest2.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\bin\Debug\net8.0\autotest2.pdb
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.AssemblyInfoInputs.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.AssemblyInfo.cs
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.csproj.CoreCompileInputs.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.sourcelink.json
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\refint\autotest2.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.pdb
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\autotest2.genruntimeconfig.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Homework2\autotest2\obj\Debug\net8.0\ref\autotest2.dll
