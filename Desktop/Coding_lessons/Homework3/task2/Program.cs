@@ -1,24 +1,40 @@
 ﻿//Задача 2: Задайте массив заполненный случайными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
-using System.Security.Cryptography;
 
-int[] array = new int[10];
-Random rnd = new Random();
-int evenCounter = 0;
+int[] CreateRandomArray(int length, int minValue, int maxValue)
+{
+    int[] array = new int[length]; 
+    Random rnd = new Random();
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = rnd.Next(minValue, maxValue);
+        //Console.Write($"{array[i]} ");
+    }
+    return array;
+}
+
+
+int[] array = CreateRandomArray(10, 0, 1000);
+//int[] result = CreateRandomArray(10, 0, 1000);
+
+Console.WriteLine("Чётные числа в массиве:");
+int CountEvenNumbers()
+{
+    int evenCounter = 0;
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = rnd.Next(100);
-    Console.WriteLine(array[i]);
-}
-Console.WriteLine("чётные числа в массиве:");
-for(int j = 0;j < array.Length; j++)
-{
-    if(array[j] % 2 == 0)
+    if (array[i] % 2 == 0)
     {
-        Console.WriteLine(array[j]);
+        Console.WriteLine(array[i]);
         evenCounter++;
     }
 }
-Console.WriteLine("Количество чётных чисел = " + evenCounter);
+return evenCounter;
+}
+
+Console.WriteLine("Количество чётных чисел");
+int result = CountEvenNumbers();
+Console.WriteLine(result);
+
 
 
 
