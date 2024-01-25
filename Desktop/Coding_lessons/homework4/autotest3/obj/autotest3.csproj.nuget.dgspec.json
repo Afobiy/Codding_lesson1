@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\Homework4\\autotest3\\autotest3.csproj": {}
+    "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\homework4\\autotest3\\autotest3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\Homework4\\autotest3\\autotest3.csproj": {
+    "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\homework4\\autotest3\\autotest3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\Homework4\\autotest3\\autotest3.csproj",
+        "projectUniqueName": "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\homework4\\autotest3\\autotest3.csproj",
         "projectName": "autotest3",
-        "projectPath": "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\Homework4\\autotest3\\autotest3.csproj",
+        "projectPath": "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\homework4\\autotest3\\autotest3.csproj",
         "packagesPath": "C:\\Users\\Ryani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\Homework4\\autotest3\\obj\\",
+        "outputPath": "C:\\Users\\Ryani\\Desktop\\Coding_lessons\\homework4\\autotest3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ryani\\AppData\\Roaming\\NuGet\\NuGet.Config"
