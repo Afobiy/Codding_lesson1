@@ -22,6 +22,7 @@ for (int x = 0; x < matrix.GetLength(1); x++)
 }
 }
 
+
 ReverseMatrixFirtsStringToLast(matrix);
 
 void ReverseMatrixLastStringToFirst(){
