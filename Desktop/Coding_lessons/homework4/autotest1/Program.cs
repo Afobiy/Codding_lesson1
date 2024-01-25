@@ -30,7 +30,6 @@ bool ValidatePosition(int xValue, int yValue)
   }
 }
 
-
 int FindElementByPosition(int[,] array, int x, int y)
 {
   x = xPosition;
