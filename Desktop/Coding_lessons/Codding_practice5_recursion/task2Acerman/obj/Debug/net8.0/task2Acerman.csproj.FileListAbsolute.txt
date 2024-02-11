@@ -1,0 +1,15 @@
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\bin\Debug\net8.0\task2Acerman.exe
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\bin\Debug\net8.0\task2Acerman.deps.json
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\bin\Debug\net8.0\task2Acerman.runtimeconfig.json
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\bin\Debug\net8.0\task2Acerman.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\bin\Debug\net8.0\task2Acerman.pdb
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.AssemblyInfoInputs.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.AssemblyInfo.cs
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.csproj.CoreCompileInputs.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.sourcelink.json
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\refint\task2Acerman.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.pdb
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\task2Acerman.genruntimeconfig.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task2Acerman\obj\Debug\net8.0\ref\task2Acerman.dll
