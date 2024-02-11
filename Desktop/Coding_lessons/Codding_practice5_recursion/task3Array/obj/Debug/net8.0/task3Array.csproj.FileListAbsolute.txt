@@ -1,0 +1,15 @@
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\bin\Debug\net8.0\task3Array.exe
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\bin\Debug\net8.0\task3Array.deps.json
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\bin\Debug\net8.0\task3Array.runtimeconfig.json
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\bin\Debug\net8.0\task3Array.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\bin\Debug\net8.0\task3Array.pdb
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.AssemblyInfoInputs.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.AssemblyInfo.cs
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.csproj.CoreCompileInputs.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.sourcelink.json
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\refint\task3Array.dll
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.pdb
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\task3Array.genruntimeconfig.cache
+C:\Users\Ryani\Desktop\Coding_lessons\Codding_practice5_recursion\task3Array\obj\Debug\net8.0\ref\task3Array.dll
